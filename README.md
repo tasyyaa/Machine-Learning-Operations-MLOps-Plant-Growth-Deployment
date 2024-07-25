@@ -1,6 +1,6 @@
 # Submission 1: Plant Growth Classification
 
-Nama: Tasya Putri Aliya
+by tasyyaa
 
 Username dicoding: tasyaputrialiya
 
